@@ -43,7 +43,7 @@ def Dec(c, k):
   return m
   
 """
-now to show that the above functions is correct. We will encrypt a random message
+now to show that the above functions are correct. We will encrypt a random message
 and verify that decrypting the corresponding ciphertext will reveal the same message
 """
 
